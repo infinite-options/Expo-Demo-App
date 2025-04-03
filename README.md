@@ -1,2 +1,2 @@
 # Expo-Demo-App
-Expo App with Login and Navigation
+Expo Demo App to demonstrate Login and Navigation
